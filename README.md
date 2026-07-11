@@ -88,8 +88,6 @@ Frontend URL: https://your-frontend-url
 Backend URL: https://your-backend-url
 ```
 
-> 📌 Your submission is complete once the PR is opened.
-
 ---
 
 ## What to Submit
