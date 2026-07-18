@@ -3,9 +3,7 @@ __pycache__/
 .venv/
 venv/
 
-# secrets — never commit these
+# secrets
 .env
 .streamlit/secrets.toml
 
-# keep memory.json tracked as [] but ignore local churn if you prefer:
-# backend/memory.json
